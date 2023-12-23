@@ -31,8 +31,5 @@
 *.out
 *.app
 
-# Ignore shell script for compiling, because complie commands different for mac and linux
-*.sh
-
 .vscode
 main
